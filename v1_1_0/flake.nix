@@ -11,6 +11,7 @@
   inputs.src-geometryutils-v1_1_0.ref   = "refs/tags/v1.1.0";
   inputs.src-geometryutils-v1_1_0.owner = "pseudo-random";
   inputs.src-geometryutils-v1_1_0.repo  = "geometryutils";
+  inputs.src-geometryutils-v1_1_0.dir   = "";
   inputs.src-geometryutils-v1_1_0.type  = "github";
   
   inputs."sdl2".owner = "nim-nix-pkgs";
