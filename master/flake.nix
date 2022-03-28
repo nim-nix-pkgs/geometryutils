@@ -11,7 +11,6 @@
   inputs.src-geometryutils-master.ref   = "refs/heads/master";
   inputs.src-geometryutils-master.owner = "pseudo-random";
   inputs.src-geometryutils-master.repo  = "geometryutils";
-  inputs.src-geometryutils-master.dir   = "";
   inputs.src-geometryutils-master.type  = "github";
   
   inputs."sdl2".owner = "nim-nix-pkgs";
