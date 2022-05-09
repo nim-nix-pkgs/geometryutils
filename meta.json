@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/pseudo-random/geometryutils",
   "refs": [
-    "fatal: unable to access 'https://github.com/pseudo-random/geometryutils/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/pseudo-random/geometryutils/': Failed to connect to github.com port 443 after 130211 ms: Network is unreachable",
     ""
   ],
   "heads": []
