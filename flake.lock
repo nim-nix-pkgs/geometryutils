@@ -35,11 +35,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1653703358,
-        "narHash": "sha256-YqdTyRltAd5lrcOTO0qA0vJ1cH3bgs5LQahqypSlbTM=",
+        "lastModified": 1656302289,
+        "narHash": "sha256-NAEGEwhMwpcWrzl77N1BmwddmeuKgK7N9uDEpE5sTZ8=",
         "owner": "nim-nix-pkgs",
         "repo": "geometryutils",
-        "rev": "29f22781788e8d5baa3560a54564610412943b85",
+        "rev": "bacbdd5642088a71721387a1993ecbd9c6ffaf07",
         "type": "github"
       },
       "original": {
@@ -64,11 +64,11 @@
       },
       "locked": {
         "dir": "v1_1_0",
-        "lastModified": 1653703358,
-        "narHash": "sha256-YqdTyRltAd5lrcOTO0qA0vJ1cH3bgs5LQahqypSlbTM=",
+        "lastModified": 1656302289,
+        "narHash": "sha256-NAEGEwhMwpcWrzl77N1BmwddmeuKgK7N9uDEpE5sTZ8=",
         "owner": "nim-nix-pkgs",
         "repo": "geometryutils",
-        "rev": "29f22781788e8d5baa3560a54564610412943b85",
+        "rev": "bacbdd5642088a71721387a1993ecbd9c6ffaf07",
         "type": "github"
       },
       "original": {
@@ -93,11 +93,11 @@
       },
       "locked": {
         "dir": "v1_2_0",
-        "lastModified": 1653703358,
-        "narHash": "sha256-YqdTyRltAd5lrcOTO0qA0vJ1cH3bgs5LQahqypSlbTM=",
+        "lastModified": 1656302289,
+        "narHash": "sha256-NAEGEwhMwpcWrzl77N1BmwddmeuKgK7N9uDEpE5sTZ8=",
         "owner": "nim-nix-pkgs",
         "repo": "geometryutils",
-        "rev": "29f22781788e8d5baa3560a54564610412943b85",
+        "rev": "bacbdd5642088a71721387a1993ecbd9c6ffaf07",
         "type": "github"
       },
       "original": {
@@ -135,11 +135,11 @@
       },
       "locked": {
         "dir": "1_2_6",
-        "lastModified": 1653702980,
-        "narHash": "sha256-47bCuAiPm4yald3/qkLdnMcK0BbMV23OegJ2DLxjesg=",
+        "lastModified": 1656301850,
+        "narHash": "sha256-Btf/Tz339FsXj3b5Nvejg6njPqh0VIy7wiIOk7MTuwg=",
         "owner": "nim-nix-pkgs",
         "repo": "opengl",
-        "rev": "b02865f756ddd7e0979aadd99e4c4b98fa0aa0a4",
+        "rev": "4fdadeadc748d69e22a455ed449b883d80d2b87b",
         "type": "github"
       },
       "original": {
